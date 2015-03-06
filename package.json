@@ -1,5 +1,5 @@
 {
-  "name": "Y",
+  "name": "kemumaki",
   "version": "0.0.0",
   "private": true,
   "author": "kemumaki",
@@ -18,7 +18,11 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "~2.5.16",
     "hubot": "~2.11.1",
-    "hubot-hipchat": "~2.7.5"
+    "hubot-hipchat": "~2.7.5",
+    "githubot": "",
+    "gitio2": "",
+    "underscore": "",
+    "underscore.string": ""
   },
   "engines": {
     "node": "0.10.x"
