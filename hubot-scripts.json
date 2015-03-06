@@ -1,1 +1,16 @@
-[]
+[
+ "github-activity.coffee",
+ "github-commiters.coffee",
+ "github-commit-link.coffee",
+ "github-commits.coffee",
+ "github-credentials.coffee",
+ "github-issue-link.coffee",
+ "github-issues.coffee",
+ "github-merge.coffee",
+ "github-pull-request-notifier.coffee",
+ "github-pulls.coffee",
+ "github-search.coffee",
+ "github-status.coffee",
+ "ip.coffee",
+ "jenkins.coffee"
+]
