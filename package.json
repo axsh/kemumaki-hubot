@@ -19,10 +19,11 @@
     "hubot-scripts": "~2.5.16",
     "hubot": "~2.11.1",
     "hubot-hipchat": "~2.7.5",
-    "githubot": "",
-    "gitio2": "",
-    "underscore": "",
-    "underscore.string": ""
+    "githubot": "~1.0.0-beta2",
+    "gitio2": "~3.0.0",
+    "underscore": "~1.8.2",
+    "underscore.string": "~3.0.3",
+    "date-utils": "~1.2.16"
   },
   "engines": {
     "node": "0.10.x"
